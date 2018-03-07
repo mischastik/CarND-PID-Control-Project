@@ -1,7 +1,8 @@
 #ifndef PID_H
 #define PID_H
 
-class PID {
+class PID 
+{
 public:
   /*
   * Errors
@@ -17,6 +18,8 @@ public:
   double Ki;
   double Kd;
 
+  double previous_cte;
+  double sum_cte;
   /*
   * Constructor
   */
