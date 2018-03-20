@@ -4,3 +4,5 @@ tags
 .editorconfig
 /ide_profiles/VisualStudio/.vs/CarND-PID-Control-Project/v15
 /ide_profiles/VisualStudio/Debug
+/ide_profiles/VisualStudio/x64/Debug/CarND-PI.F196D5FA.tlog
+/ide_profiles/VisualStudio/x64/Debug
